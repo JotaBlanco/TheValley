@@ -6,4 +6,6 @@ Presentación: https://docs.google.com/presentation/d/1IT6OVy9YS_sbgHF2oU9D0L--f
 
 Notebook explicación EDA: https://colab.research.google.com/drive/1B37GMOCjKQ0S8NoRI6lALEW9EZtE0Hit#scrollTo=R53FGLN8jo1L 
 
-Notebook ejercicio EDA:
+Notebook ejercicio 1 EDA: https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb
+
+Notebook ejercicio 2 EDA: https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_2__proceso_analisis_exploratorio.ipynb
