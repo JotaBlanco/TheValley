@@ -14,4 +14,4 @@ Notebook ejercicio 2 EDA: https://colab.research.google.com/github/JotaBlanco/Th
 # Clase 2 - Análisis Exploratorio Visual
 Presentación: https://docs.google.com/presentation/d/1N7MPSC7ntM-0ZEHlrN5xRTpT4uNDyU_o53GBvnojUx8/edit?usp=sharing
 
-Notebook explicación EDA visual:
+Notebook explicación EDA visual: https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/02-analisis-exploratorio-visual/02___Analisis_exploratorio_visual.ipynb
