@@ -2,6 +2,13 @@
 Preparación de clases a impartir en  el MDS+ de The Valley del curso 2020/2021.
 
 # Clase 1 - Análisis Exploratorio
+Introducción al análisis exploratorio: 
+- cómo importar un dataset en colab
+- cómo hacer comprobaciones básicas sobre el mismo
+- cómo limpiar el dataset (formatos, nulos)
+- cómo realizar transformaciones básicas sobre el dataframe
+- cómo extraer la distribución de las variables
+
 Presentación: https://docs.google.com/presentation/d/1IT6OVy9YS_sbgHF2oU9D0L--fZiyUfij7NxVhu3cAdg/edit#slide=id.gb27fcc9263_0_5
 
 Notebook explicación EDA: https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/01___Proceso_analisis_exploratorio.ipynb
@@ -12,6 +19,13 @@ Notebook ejercicio 2 EDA: https://colab.research.google.com/github/JotaBlanco/Th
 
 
 # Clase 2 - Análisis Exploratorio Visual
+Recordamos y desarrollamos conceptos básicos sobre el EDA, poniendo el foco en la visualización de los datos.  
+- cómo visualizar información siguiendo buenas prácticas
+- cómo utilizar matplotlib.pyplot
+- cómo emplear las funciones principales de Pyplot: plt.plot(), plt.bar(), plt.scatter(), plt.hist()
+- cómo aprovecharnos de la estética de Seaborn
+- cómo generar reports automáticos con pandas-profiling
+
 Presentación: https://docs.google.com/presentation/d/1N7MPSC7ntM-0ZEHlrN5xRTpT4uNDyU_o53GBvnojUx8/edit?usp=sharing
 
 Notebook explicación EDA visual: https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/02-analisis-exploratorio-visual/02___Analisis_exploratorio_visual.ipynb
