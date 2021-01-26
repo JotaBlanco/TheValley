@@ -16,6 +16,7 @@ Los materiales que utilizaremos son:
 - [Notebook ejercicio 2 EDA](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_2__proceso_analisis_exploratorio.ipynb)
 
 
+
 # Clase 2 - Análisis Exploratorio Visual
 Recordamos y desarrollamos conceptos básicos sobre el EDA, poniendo el foco en la visualización de los datos.  
 - cómo visualizar información siguiendo buenas prácticas
