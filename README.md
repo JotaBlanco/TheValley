@@ -9,13 +9,11 @@ Introducción al análisis exploratorio:
 - cómo realizar transformaciones básicas sobre el dataframe
 - cómo extraer la distribución de las variables
 
-Presentación: https://docs.google.com/presentation/d/1IT6OVy9YS_sbgHF2oU9D0L--fZiyUfij7NxVhu3cAdg/edit#slide=id.gb27fcc9263_0_5
-
-Notebook explicación EDA: https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/01___Proceso_analisis_exploratorio.ipynb
-
-Notebook ejercicio 1 EDA: https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb
-
-Notebook ejercicio 2 EDA: https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_2__proceso_analisis_exploratorio.ipynb
+Los materiales que utilizaremos son:
+- [Presentación](https://docs.google.com/presentation/d/1IT6OVy9YS_sbgHF2oU9D0L--fZiyUfij7NxVhu3cAdg/edit?usp=sharing)
+- [Notebook explicación EDA](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/01___Proceso_analisis_exploratorio.ipynb)
+- [Notebook ejercicio 1 EDA](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb)
+- [Notebook ejercicio 2 EDA](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_2__proceso_analisis_exploratorio.ipynb)
 
 
 # Clase 2 - Análisis Exploratorio Visual
