@@ -24,11 +24,10 @@ Recordamos y desarrollamos conceptos básicos sobre el EDA, poniendo el foco en 
 - cómo aprovecharnos de la estética de Seaborn
 - cómo generar reports automáticos con pandas-profiling
 
-Presentación: https://docs.google.com/presentation/d/1N7MPSC7ntM-0ZEHlrN5xRTpT4uNDyU_o53GBvnojUx8/edit?usp=sharing
-
-Notebook explicación EDA visual: https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/02-analisis-exploratorio-visual/02___Analisis_exploratorio_visual.ipynb
-
-Notebook ejercicio 3 EDA Visual: https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/02-analisis-exploratorio-visual/EJERCICIO_3___EDA_Visual_Covid.ipynb#scrollTo=Ep8-8ns-Y5TO
+Los materiales que utilizaremos es:
+- [Presentación](https://docs.google.com/presentation/d/1N7MPSC7ntM-0ZEHlrN5xRTpT4uNDyU_o53GBvnojUx8/edit?usp=sharing)
+- [Notebook explicación EDA visual](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/02-analisis-exploratorio-visual/02___Analisis_exploratorio_visual.ipynb)
+- [Notebook ejercicio 3 EDA Visual](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/02-analisis-exploratorio-visual/EJERCICIO_3___EDA_Visual_Covid.ipynb#scrollTo=Ep8-8ns-Y5TO)
 
 Notebook ejercicio 4 EDA Visual:
 
