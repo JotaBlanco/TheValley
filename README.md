@@ -31,3 +31,15 @@ Los materiales que utilizaremos es:
 - [Notebook ejercicio 3 EDA Visual](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/02-analisis-exploratorio-visual/EJERCICIO_3___EDA_Visual_Covid_sin_resolver.ipynb) | [Notebook ejercicio 3 EDA Visual Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/02-analisis-exploratorio-visual/EJERCICIO_3___EDA_Visual_Covid.ipynb)
 - [Notebook ejercicio 4 EDA Visual](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/02-analisis-exploratorio-visual/EJERCICIO_4___EDA_Visual_Barsa_Madrid_sin_resolver.ipynb) | [Notebook ejercicio 4 EDA Visual Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/02-analisis-exploratorio-visual/EJERCICIO_4___EDA_Visual_Barsa_Madrid.ipynb)
 - [Notebook ejercicio 5 EDA Visual](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/02-analisis-exploratorio-visual/EJERCICIO_5___EDA_Visual_Funcion_Scatter_sin_resolver.ipynb) | [Notebook ejercicio 5 EDA Visual Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/02-analisis-exploratorio-visual/EJERCICIO_5___EDA_Visual_Funcion_Scatter.ipynb)
+
+# Clase 3 - Análisis Causal, Univariante y Multivariante
+Un análisis EDA profundo suele desembocar en un estudio de las relaciones entre variables. Con esto se intenta comprender los mecanismos que dan lugar a nuestros datos. En esta sesión nos centraremos en:
+- por qué es importante una óptica causal
+- cuáles son las posibles fuentes de una correlación:
+  - azar
+  - relación causal
+  - presencia de confounder
+  - ajuste por collider
+- cómo dibujar diagramas causales
+- cómo hacer un análisis univariante (relación entre dos variables)
+- cómo hacer un análisis multivariante (relación entre varias variables y una tercera)
