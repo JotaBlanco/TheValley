@@ -12,8 +12,8 @@ Introducción al análisis exploratorio:
 Los materiales que utilizaremos son:
 - [Presentación](https://docs.google.com/presentation/d/1IT6OVy9YS_sbgHF2oU9D0L--fZiyUfij7NxVhu3cAdg/edit?usp=sharing)
 - [Notebook explicación EDA resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/01___Proceso_analisis_exploratorio.ipynb)   |   [Notebook explicación EDA con ejercicios sin resolver](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/01___Proceso_analisis_exploratorio__sin_resolver_ejercicios.ipynb#scrollTo=cnHRaho3rsXS)
-- [Notebook ejercicio 1 EDA](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb)
-- [Notebook ejercicio 2 EDA](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_2__proceso_analisis_exploratorio.ipynb)
+- [Notebook ejercicio 1 EDA](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio_sin_resolver.ipynb#scrollTo=exi-HUGCoCae)   |   [Notebook ejercicio 1 EDA Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb)
+- [Notebook ejercicio 2 EDA](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_2__proceso_analisis_exploratorio_sin_resolver.ipynb)   |   [Notebook ejercicio 2 EDA Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_2__proceso_analisis_exploratorio.ipynb)
 
 
 
