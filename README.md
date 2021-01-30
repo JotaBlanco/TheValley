@@ -25,7 +25,7 @@ Recordamos y desarrollamos conceptos básicos sobre el EDA, poniendo el foco en 
 - cómo aprovecharnos de la estética de Seaborn
 - cómo generar reports automáticos con pandas-profiling
 
-Los materiales que utilizaremos es:
+Los materiales que utilizaremos son:
 - [Presentación](https://docs.google.com/presentation/d/1N7MPSC7ntM-0ZEHlrN5xRTpT4uNDyU_o53GBvnojUx8/edit) | [Presentación formato claro](https://docs.google.com/presentation/d/1YS2POSE2xxyebvRIvpgQF5JQdAWE4ZkogvI7oKnqNoc/edit#slide=id.gb515a589a6_0_329)
 - [Notebook explicación EDA visual](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/02-analisis-exploratorio-visual/02___Analisis_exploratorio_visual.ipynb) | [Notebook explicación EDA visual resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/02-analisis-exploratorio-visual/02___Analisis_exploratorio_visual_ejercicios_sin_resolver.ipynb#scrollTo=pMrrVk4TM7X2)
 - [Notebook ejercicio 3 EDA Visual](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/02-analisis-exploratorio-visual/EJERCICIO_3___EDA_Visual_Covid_sin_resolver.ipynb) | [Notebook ejercicio 3 EDA Visual Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/02-analisis-exploratorio-visual/EJERCICIO_3___EDA_Visual_Covid.ipynb)
@@ -43,3 +43,6 @@ Un análisis EDA profundo suele desembocar en un estudio de las relaciones entre
   - ajuste por collider
 - cómo dibujar diagramas causales
 - cómo hacer un análisis multivariante (relación entre varias variables y una tercera)
+
+Los materiales que utilizaremos son:
+- [Presentación](https://docs.google.com/presentation/d/1WNWGnLUyiGqwFf92V3V_szu3QTD_0EQY5GZjhFgen5Q/edit#slide=id.gb9a25a5f71_0_10) | [Presentación formato claro](https://docs.google.com/presentation/d/1WNWGnLUyiGqwFf92V3V_szu3QTD_0EQY5GZjhFgen5Q/edit#slide=id.gb9a25a5f71_0_10)
