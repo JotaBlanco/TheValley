@@ -34,6 +34,7 @@ Los materiales que utilizaremos es:
 
 # Clase 3 - Análisis Causal, Univariante y Multivariante
 Un análisis EDA profundo suele desembocar en un estudio de las relaciones entre variables. Con esto se intenta comprender los mecanismos que dan lugar a nuestros datos. En esta sesión nos centraremos en:
+- cómo hacer un análisis univariante (relación entre dos variables)
 - por qué es importante una óptica causal
 - cuáles son las posibles fuentes de una correlación:
   - azar
@@ -41,5 +42,4 @@ Un análisis EDA profundo suele desembocar en un estudio de las relaciones entre
   - presencia de confounder
   - ajuste por collider
 - cómo dibujar diagramas causales
-- cómo hacer un análisis univariante (relación entre dos variables)
 - cómo hacer un análisis multivariante (relación entre varias variables y una tercera)
