@@ -19,6 +19,8 @@ Los materiales que utilizaremos son:
 
 # Clase 2 - Análisis Exploratorio Visual
 Recordamos y desarrollamos conceptos básicos sobre el EDA, poniendo el foco en la visualización de los datos.  
+- pequeño repaso Python: [paréntesis, corchetes, objetos y más](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/00___Peque%C3%B1o_repaso_de_formatos_tipos_par%C3%A9ntesis_corchetes.ipynb)
+- pequeño repaso análisis exploratorio:  [ejercicio Titanic](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb)
 - cómo visualizar información siguiendo buenas prácticas
 - cómo utilizar matplotlib.pyplot
 - cómo emplear las funciones principales de Pyplot: plt.plot(), plt.bar(), plt.scatter(), plt.hist()
