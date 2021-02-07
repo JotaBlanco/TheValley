@@ -50,6 +50,6 @@ Los materiales que utilizaremos son:
 - [Presentación](https://docs.google.com/presentation/d/1WNWGnLUyiGqwFf92V3V_szu3QTD_0EQY5GZjhFgen5Q/edit#slide=id.gb9a25a5f71_0_10) | [Presentación formato claro](https://docs.google.com/presentation/d/1WNWGnLUyiGqwFf92V3V_szu3QTD_0EQY5GZjhFgen5Q/edit#slide=id.gb9a25a5f71_0_10)
 - NOTEBOOKS de explicación con ejemplos:
   - 3A - Análisis univariante: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/03-analisis-univariante-causal-multivariante/03_A___Analisis_univariante_sin_resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/03-analisis-univariante-causal-multivariante/03_A___Analisis_univariante.ipynb)
-  - 3B - Análisis multivariante: Original | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/03-analisis-univariante-causal-multivariante/03_B___Analisis_multivariante.ipynb)
+  - 3B - Análisis multivariante: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/03-analisis-univariante-causal-multivariante/03_B___Analisis_multivariante_sin_resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/03-analisis-univariante-causal-multivariante/03_B___Analisis_multivariante.ipynb)
   - 3C - Análisis causal:
 - EJERCICIO
