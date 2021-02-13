@@ -3,14 +3,14 @@ Introducción al análisis exploratorio:
 - cómo importar un dataset en colab
 - cómo hacer comprobaciones básicas sobre el mismo
 - cómo limpiar el dataset (formatos, nulos)
-- cómo realizar transformaciones básicas sobre el dataframe
+- cómo realizar transformaciones sobre el dataframe
 - cómo extraer la distribución de las variables
 
 Los materiales que utilizaremos son:
 - [Presentación](https://docs.google.com/presentation/d/1IT6OVy9YS_sbgHF2oU9D0L--fZiyUfij7NxVhu3cAdg/edit?usp=sharing) | [Presentación formato claro](https://docs.google.com/presentation/d/1H04gE9N6dTgWJ7o9tgxZIHyXMNRD8HB97EKwotOWUng/edit?usp=sharing)
-- [Notebook explicación EDA](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/01___Proceso_analisis_exploratorio__sin_resolver_ejercicios.ipynb#scrollTo=cnHRaho3rsXS) | [Notebook explicación EDA con ejercicios resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/01___Proceso_analisis_exploratorio.ipynb)  
-- [Notebook ejercicio 1 EDA](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio_sin_resolver.ipynb#scrollTo=exi-HUGCoCae)   |   [Notebook ejercicio 1 EDA Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb)
-- [Notebook ejercicio 2 EDA](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_2__proceso_analisis_exploratorio_sin_resolver.ipynb)   |   [Notebook ejercicio 2 EDA Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Notebooks/01-proceso-analisis-exploratorio/EJERCICIO_2__proceso_analisis_exploratorio.ipynb)
+- Notebook con Explicaciones [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/01___Proceso_analisis_exploratorio__sin_resolver_ejercicios.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb)  
+- EJERCICIO 1 - EDA Titanic: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio_sin_resolver.ipynb)   |   [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb)
+- EJERCICIO 2 - EDA SP&500: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_2__proceso_analisis_exploratorio_sin_resolver.ipynb)   |   [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_2__proceso_analisis_exploratorio.ipynb)
 
 
 
