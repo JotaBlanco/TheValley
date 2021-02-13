@@ -31,7 +31,7 @@ Los materiales que utilizaremos son:
 - EJERCICIO 4 - EDA Visual: [Versión Simplificada](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/02-analisis-exploratorio-visual/EJERCICIO_4___sin_resolver_FACIL.ipynb) | [Versión Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/02-analisis-exploratorio-visual/EJERCICIO_4___sin_resolver_DIFICIL.ipynb) | [Versión Resuelta](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/02-analisis-exploratorio-visual/EJERCICIO_4___EDA_Visual_Barsa_Madrid.ipynb). 
 - EJERCICIO 5 - EDA Visual (Difícil): [Versión Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/02-analisis-exploratorio-visual/EJERCICIO_5___EDA_Visual_Funcion_Scatter_sin_resolver.ipynb) | [Versión Resuelta](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/02-analisis-exploratorio-visual/EJERCICIO_5___EDA_Visual_Funcion_Scatter.ipynb).
 
-# Clase 3 - Análisis Causal, Univariante y Multivariante
+# Clase 3 - Análisis Univariante, Multivariante y Causal
 Un análisis EDA profundo suele desembocar en un estudio de las relaciones entre variables. Con esto se intenta comprender los mecanismos que dan lugar a nuestros datos. En esta sesión nos centraremos en:
 - cómo hacer un análisis univariante (estudio de una variable)
 - cómo hacer un análisis multivariante (estudio de la relación entre dos o más variable)
