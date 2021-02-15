@@ -11,3 +11,10 @@ Los materiales que utilizaremos son:
 
 # Clase 2 - Árboles de decisión (II)
 Profundización en árboles de decisión. 
+
+
+# Clase 3 - Modelos avanzados de árboles: Boosting, Random forest
+Profundización en árboles de decisión. 
+- Random forest
+- Árboles creados con boosting
+- Recomendaciones de ingenieria y selección de variables para modelos basados en árboles
