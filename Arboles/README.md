@@ -1,9 +1,9 @@
 # Clase 1 - Árboles de decisión (I)
 Introducción a árboles de decisión: 
-- Algoritmos de creación de árboles de decisión
-- Modelos de árboles de regresión y de clasificación
-- Clasificación simple y multiclase
+- Concepto de árboles de decisión
 - Particionado recursivo
+- Modelos de árboles clasificación simple
+- Modelos de árboles de regresión
 
 Los materiales que utilizaremos son:
 - Presentación | [Presentación formato claro](https://docs.google.com/presentation/d/16tnAAaiT6mrelG8zRg26crXAChWmzjOG2NyA0oyh4X0/edit?usp=sharing)
@@ -12,7 +12,11 @@ Los materiales que utilizaremos son:
 
 
 # Clase 2 - Árboles de decisión (II)
-Profundización en árboles de decisión. 
+Profundización en árboles de decisión:
+- Repaso de árboles de clasificación y regresión
+- Árboles de clasificación multiclase
+- Preparación de datos
+- Sobreajuste
 
 
 # Clase 3 - Modelos avanzados de árboles: Boosting, Random forest
