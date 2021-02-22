@@ -14,10 +14,10 @@ Los materiales que utilizaremos son:
 
 # Clase 2 - Árboles de decisión (II)
 Profundización en árboles de decisión:
-- Repaso de árboles de clasificación y regresión
+- Repaso breve de árboles de clasificación y regresión
 - Árboles de clasificación multiclase
-- Preparación de datos
-- Sobreajuste
+- Preparación de datos para entrenar un árbol
+- Herramientas en árboles para controlar el equilibrio bias-variance
 
 
 # Clase 3 - Modelos avanzados de árboles: Boosting, Random forest
