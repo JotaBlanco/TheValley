@@ -19,6 +19,10 @@ Profundización en árboles de decisión:
 - Preparación de datos para entrenar un árbol
 - Herramientas en árboles para controlar el equilibrio bias-variance
 
+Los materiales que utilizaremos son:
+- Presentación | [Presentación formato claro](https://docs.google.com/presentation/d/1kiEbdMHy7Ji02SlTxzq913bZ-rcQWn00Td0K_MNVXEk/edit?usp=sharing)
+- 2A - Notebook de Explicación de Árboles de Clasificación: Original | Resuelto
+- 2B - Notebook de Explicación de Árboles de Regresión: Original | Resuelto
 
 # Clase 3 - Modelos avanzados de árboles: Boosting, Random forest
 Profundización en árboles de decisión. 
