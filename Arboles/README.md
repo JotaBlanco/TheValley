@@ -21,7 +21,7 @@ Profundización en árboles de decisión:
 
 Los materiales que utilizaremos son:
 - Presentación | [Presentación formato claro](https://docs.google.com/presentation/d/1kiEbdMHy7Ji02SlTxzq913bZ-rcQWn00Td0K_MNVXEk/edit?usp=sharing)
-- 2A - Notebook de Explicación de Árboles de Clasificación: Original | Resuelto
+- 2A - Notebook de Explicación de Árboles de Clasificación: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_02_Arboles/02_A_%C3%81rboles_Clasificaci%C3%B3n_M%C3%BAltiple_Sin_Resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_02_Arboles/02_A_%C3%81rboles_Clasificaci%C3%B3n_M%C3%BAltiple_Resuelto.ipynb)
 - 2B - Notebook de Explicación de Árboles de Regresión: Original | Resuelto
 
 # Clase 3 - Modelos avanzados de árboles: Boosting, Random forest
