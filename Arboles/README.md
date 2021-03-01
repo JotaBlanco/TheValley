@@ -22,7 +22,7 @@ Profundización en árboles de decisión:
 Los materiales que utilizaremos son:
 - Presentación | [Presentación formato claro](https://docs.google.com/presentation/d/1kiEbdMHy7Ji02SlTxzq913bZ-rcQWn00Td0K_MNVXEk/edit?usp=sharing)
 - 2A - Notebook de Explicación de Árboles de Clasificación Multiclase: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_02_Arboles/02_A_%C3%81rboles_Clasificaci%C3%B3n_M%C3%BAltiple_Sin_Resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_02_Arboles/02_A_%C3%81rboles_Clasificaci%C3%B3n_M%C3%BAltiple_Resuelto.ipynb)
-- 2B - Notebook Explicación de Preparación de Datos para Árboles de Decisión: Original | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_02_Arboles/02_B_Preparando_Datos_para_%C3%81rboles_de_Decisi%C3%B3n.ipynb)
+- 2B - Notebook Explicación de Preparación de Datos para Árboles de Decisión: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_02_Arboles/02_B_Preparando_Datos_para_%C3%81rboles_de_Decisi%C3%B3n_Sin_Resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_02_Arboles/02_B_Preparando_Datos_para_%C3%81rboles_de_Decisi%C3%B3n.ipynb)
 
 # Clase 3 - Modelos avanzados de árboles: Boosting, Random forest
 Profundización en árboles de decisión. 
