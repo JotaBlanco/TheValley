@@ -26,7 +26,13 @@ Los materiales que utilizaremos son:
 - 2C - Notebook Explicación Bias VS Variance: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_02_Arboles/02_C_%C3%81rboles_Decisi%C3%B3n_sin_Overfitting.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_02_Arboles/02_C_%C3%81rboles_Decisi%C3%B3n_sin_Overfitting_Resuelto.ipynb)
 
 # Clase 3 - Modelos avanzados de árboles: Boosting, Random forest
-Profundización en árboles de decisión. 
+Primero repasaremos los conceptos básicos sobre árboles de decisión vistos en clases anteriores, para luego poder profundizar y ver tipos de modelos de machine learning más avanzados basados en árboles de decisión, como Random Forest y Boosting.
+
+Los materiales que utilizaremos son:
+- Presentación | [Presentación formato claro](https://docs.google.com/presentation/d/1jRg7Dk2y_2_fxnC_Jpj5aWcqgW9t1KAd7izdmWzv9Sk/edit#slide=id.gc8f3a31038_0_0)
+- 3A - Notebook de repaso de Árboles de Decisión de Clasificación: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_03_Arboles/03A_sin_resolver_%7C_Repaso_I_sobre_%C3%81rboles_Decisi%C3%B3n.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_03_Arboles/03A_%7C_Repaso_I_sobre_%C3%81rboles_Decisi%C3%B3n.ipynb)
+
+
 - Random forest
 - Árboles creados con boosting
 - Recomendaciones de ingenieria y selección de variables para modelos basados en árboles
