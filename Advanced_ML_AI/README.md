@@ -1,8 +1,3 @@
-# ADVANCED MACHINE LEARNING AI
-08/04/2021 
-22/04/2021 
-11/05/2021 
-
 # Clase 1 - Modelos de árboles avanzados
 Introducción a árboles de decisión: 
 - Concepto de árboles de decisión
