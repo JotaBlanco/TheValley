@@ -1,10 +1,11 @@
 # Clase 1 - Modelos de árboles avanzados 
-- Repaso a modelos de árboles de decisión, Random Forest y Gradient Boosting
-- Model Ensembles
-- Suma d emodelos débiles = modelo fuerto?
+Profundizamos en modelos de árboles avanzados e introducimos el concepto (en realidad ya conocido) de model ensambles:
+- Posible (último) repaso a modelos de árboles de decisión
+- Model Ensembles: ¿suma de modelos débiles = modelo fuerte?
+  - Bagging: Random Forests
+  - Boosting: Gradient Boosting, Stochastic Gradient Boosting, AdaBoost, XGBoost
+  - Stacking:
 - Creación de pipelines para crear modelos ensamblados
-- Stacking
-- Profundización en modelos de árboles: XGBoost, AdaBoost
 - Modelos de supervivencia
 
 Los materiales que utilizaremos son:
