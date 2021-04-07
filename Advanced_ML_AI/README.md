@@ -9,7 +9,8 @@ Profundizamos en modelos de árboles avanzados e introducimos el concepto (en re
 - Modelos de supervivencia
 
 Los materiales que utilizaremos son:
-- Presentación | Presentación formato claro
+- Presentación | [Presentación formato claro](https://docs.google.com/presentation/d/1F68d62Vskya9lSi8nwJfQxRqMqdVk3_I0c61jgtSWWg/edit?usp=sharing)
+- Cuestionarios de Kahoot 
 - 1A - Notebook ...: Original | Resuelto
 - 1B - Notebook ...: Original | Resuelto 
 
