@@ -4,15 +4,14 @@ Profundizamos en modelos de árboles avanzados e introducimos el concepto (en re
 - Model Ensembles: ¿suma de modelos débiles = modelo fuerte?
   - Bagging: Random Forests
   - Boosting: Gradient Boosting, Stochastic Gradient Boosting, AdaBoost, XGBoost
-  - Stacking:
+  - Stacking
 - Creación de pipelines para crear modelos ensamblados
-- Modelos de supervivencia
 
 Los materiales que utilizaremos son:
 - Presentación | [Presentación formato claro](https://docs.google.com/presentation/d/1F68d62Vskya9lSi8nwJfQxRqMqdVk3_I0c61jgtSWWg/edit?usp=sharing)
 - Cuestionarios de Kahoot 
-- 1A - Notebook ...: Original | Resuelto
-- 1B - Notebook ...: Original | Resuelto 
+- 1A - Notebook Práctica con Modelo de Churn: Original | Resuelto
+- 1B - Notebook con EJERCICIO grupal sobre un modelo de Churn : Original | Resuelto 
 
 
 # Clase 2 - Optimizando modelos: selección de hiperparámetros
