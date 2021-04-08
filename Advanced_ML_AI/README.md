@@ -11,7 +11,7 @@ Los materiales que utilizaremos son:
 - Cuestionarios de [Kahoot](https://kahoot.it/):
   - [Cuestionario 1](https://create.kahoot.it/details/66d8870b-abba-4254-8175-4f1e721102b6)
   - [Cuestionario 2](https://create.kahoot.it/details/32e2b50b-0a42-4937-b45d-9518e4977127)  
-- 1A - Notebook Práctica Ejercicios: Original | Resuelto
+- 1A - Notebook Práctica Ejercicios: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_01_Modelos_Avanzados_%C3%81rboles/01A_%7C_Ejercicio_Coches_y_Casas_sin_resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_01_Modelos_Avanzados_%C3%81rboles/01A_%7C_Ejercicio_Coches_y_Casas.ipynb)
 
 
 # Clase 2 - Optimizando modelos: selección de hiperparámetros
