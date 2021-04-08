@@ -7,7 +7,7 @@ Profundizamos en modelos de árboles avanzados e introducimos el concepto (en re
   - Stacking
 
 Los materiales que utilizaremos son:
-- Presentación | [Presentación formato claro](https://docs.google.com/presentation/d/1F68d62Vskya9lSi8nwJfQxRqMqdVk3_I0c61jgtSWWg/edit?usp=sharing)
+- [Presentación](https://docs.google.com/presentation/d/1OpMCZdoi_caj86x-_HqZVaCMWASUDKSis-sMKsKI1eM/edit?usp=sharing) | [Presentación formato claro](https://docs.google.com/presentation/d/1F68d62Vskya9lSi8nwJfQxRqMqdVk3_I0c61jgtSWWg/edit?usp=sharing)
 - Cuestionarios de [Kahoot](https://kahoot.it/):
   - [Cuestionario 1](https://create.kahoot.it/details/66d8870b-abba-4254-8175-4f1e721102b6)
   - [Cuestionario 2](https://create.kahoot.it/details/32e2b50b-0a42-4937-b45d-9518e4977127)  
