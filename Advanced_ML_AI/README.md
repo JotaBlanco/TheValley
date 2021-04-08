@@ -12,7 +12,6 @@ Los materiales que utilizaremos son:
   - [Cuestionario 1](https://create.kahoot.it/details/66d8870b-abba-4254-8175-4f1e721102b6)
   - [Cuestionario 2](https://create.kahoot.it/details/32e2b50b-0a42-4937-b45d-9518e4977127)  
 - 1A - Notebook Práctica Ejercicios: Original | Resuelto
-- 1B - Notebook con EJERCICIO grupal sobre un modelo de Churn : Original | Resuelto 
 
 
 # Clase 2 - Optimizando modelos: selección de hiperparámetros
