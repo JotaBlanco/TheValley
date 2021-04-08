@@ -12,7 +12,7 @@ Enlace a los materiales de las distintas clases:
   - 01/03/2021 [Modelos de inferencia de árboles de decisión: clasificación multiclase](https://github.com/JotaBlanco/TheValley/tree/main/Arboles#clase-2---%C3%A1rboles-de-decisi%C3%B3n-ii)
   - 25/03/2021 [Modelos avanzados de árboles](https://github.com/JotaBlanco/TheValley/tree/main/Arboles#clase-2---%C3%A1rboles-de-decisi%C3%B3n-ii)
 - ADVANCED MACHINE LEARNING AI
-  - 08/04/2021 Modelos de árboles avanzados
+  - 08/04/2021 [Modelos de árboles avanzados](https://github.com/JotaBlanco/TheValley/tree/main/Advanced_ML_AI#clase-1---modelos-de-%C3%A1rboles-avanzados)
   - 22/04/2021 Optimizando modelos: selección de hiperparámetros
   - 11/05/2021 Introducción a las redes neuronales
   - 17/05/2021 Datathon
