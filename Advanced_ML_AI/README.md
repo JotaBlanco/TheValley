@@ -5,7 +5,6 @@ Profundizamos en modelos de árboles avanzados e introducimos el concepto (en re
   - Bagging: Random Forests
   - Boosting: Gradient Boosting, Stochastic Gradient Boosting, AdaBoost, XGBoost
   - Stacking
-- Creación de pipelines para crear modelos ensamblados
 
 Los materiales que utilizaremos son:
 - Presentación | [Presentación formato claro](https://docs.google.com/presentation/d/1F68d62Vskya9lSi8nwJfQxRqMqdVk3_I0c61jgtSWWg/edit?usp=sharing)
@@ -18,6 +17,7 @@ Los materiales que utilizaremos son:
 
 # Clase 2 - Optimizando modelos: selección de hiperparámetros
 Cómo buscar y seleccionar el mejor set de hiperparámetros posible a la hora de entrenar un modelo:
+- Creación de pipelines para crear modelos ensamblados
 - Principios de búsqueda de hiperparámetros
 - Búsqueda de parámetros y selección de features
 - Grid search, random search o basados en otras técnicas
