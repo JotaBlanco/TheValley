@@ -15,8 +15,12 @@ Los materiales que utilizaremos son:
 
 
 # Clase 2 - Optimizando modelos: selección de hiperparámetros
-Cómo buscar y seleccionar el mejor set de hiperparámetros posible a la hora de entrenar un modelo:
+Primero, veremos el método de ensamblaje de modelos que no nos dio tiempo a tratar en la clase anterior:
+- Pequeño repaso de métodos de ensamblaje de modelos y algoritmos específicos que se basan en ellos: Random Forest, Gradient Boosting, AdaBoost, XGBoost
+- Stacking
 - Creación de pipelines para crear modelos ensamblados
+
+Luego, veremos cómo buscar y seleccionar el mejor set de hiperparámetros posible a la hora de entrenar un modelo:
 - Principios de búsqueda de hiperparámetros
 - Búsqueda de parámetros y selección de features
 - Grid search, random search o basados en otras técnicas
