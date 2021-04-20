@@ -27,8 +27,8 @@ Luego, veremos cómo buscar y seleccionar el mejor set de hiperparámetros posib
 
 Los materiales que utilizaremos son:
 - Presentación | Presentación formato claro
-- 2A - Notebook ...: Original | Resuelto
-- 2B - Notebook ...: Original | Resuelto 
+- 2A - Notebook Practica Ensamblaje de Modelos: Original | Resuelto
+- 2B - Notebook Ejercicio Challenge: Original | Resuelto 
 
 # Clase 3 - Introducción a las redes neuronales
 Introducción a modelos de redes neuronales:
