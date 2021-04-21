@@ -28,7 +28,7 @@ Luego, veremos cómo buscar y seleccionar el mejor set de hiperparámetros posib
 Los materiales que utilizaremos son:
 - Presentación | Presentación formato claro
 - 2A - Notebook Practica Ensamblaje de Modelos: Original | Resuelto
-- 2B - Notebook Ejercicio Challenge: Original | Resuelto 
+- 2B - Ejercicio Challenge: [Notebook](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_02_Optimizacion_Modelos/02B_%7C_Ejercicio_CHALLENGE.ipynb) 
 
 # Clase 3 - Introducción a las redes neuronales
 Introducción a modelos de redes neuronales:
