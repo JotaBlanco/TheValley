@@ -24,7 +24,7 @@ Luego, veremos cómo buscar y seleccionar el mejor set de hiperparámetros posib
 - Grid search, random search o basados en otras técnicas
 
 Los materiales que utilizaremos son:
-- Presentación | Presentación formato claro
+- [Presentación](https://docs.google.com/presentation/d/1w6sPaL2EU5U1iUuSzwIUUdMIOOlBqDp79mE_d6gsphI/edit?usp=sharing) | [Presentación formato claro](https://docs.google.com/presentation/d/1Rzsrt7jqXUUyHNQMq20xaCfQw-YamYdZzYjfJPxZ12Y/edit?usp=sharing)
 - 2A - Notebook Practica Ensamblaje de Modelos: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_02_Optimizacion_Modelos/02A_%7C_Notebook_Pr%C3%A1ctica_Ensamblaje_e_Hiperpar%C3%A1metros_sin_resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_02_Optimizacion_Modelos/02A_%7C_Notebook_Pr%C3%A1ctica_Ensamblaje_e_Hiperpar%C3%A1metros.ipynb)
 - 2B - Ejercicio Challenge: [Notebook](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_02_Optimizacion_Modelos/02B_%7C_Ejercicio_CHALLENGE.ipynb) 
 
