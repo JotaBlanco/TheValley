@@ -26,7 +26,7 @@ Luego, veremos cómo buscar y seleccionar el mejor set de hiperparámetros posib
 
 Los materiales que utilizaremos son:
 - Presentación | Presentación formato claro
-- 2A - Notebook Practica Ensamblaje de Modelos: Original | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_02_Optimizacion_Modelos/02A_%7C_Notebook_Pr%C3%A1ctica_Ensamblaje_e_Hiperpar%C3%A1metros.ipynb)
+- 2A - Notebook Practica Ensamblaje de Modelos: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_02_Optimizacion_Modelos/02A_%7C_Notebook_Pr%C3%A1ctica_Ensamblaje_e_Hiperpar%C3%A1metros_sin_resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_02_Optimizacion_Modelos/02A_%7C_Notebook_Pr%C3%A1ctica_Ensamblaje_e_Hiperpar%C3%A1metros.ipynb)
 - 2B - Ejercicio Challenge: [Notebook](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_02_Optimizacion_Modelos/02B_%7C_Ejercicio_CHALLENGE.ipynb) 
 
 # Clase 3 - Introducción a las redes neuronales
