@@ -21,7 +21,6 @@ Primero, veremos el método de ensamblaje de modelos que no nos dio tiempo a tra
 
 Luego, veremos cómo buscar y seleccionar el mejor set de hiperparámetros posible a la hora de entrenar un modelo:
 - Principios de búsqueda de hiperparámetros
-- Búsqueda de parámetros y selección de features
 - Grid search, random search o basados en otras técnicas
 
 Los materiales que utilizaremos son:
