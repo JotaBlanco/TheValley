@@ -33,7 +33,7 @@ Introducción a modelos de redes neuronales:
 - Qué es una red neuronal?
 - Tipología: Neuronas, Capas, Etc.
 Función de activación: sigmoide/relu
-- Gradiente Descento y proceso de aprendizaje (backpropagation)
+- Gradiente Descent y proceso de aprendizaje (backpropagation)
 - Función de pérdida
 - Sotochastic Gradient Descent
 - ver mail con link
