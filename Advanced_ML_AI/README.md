@@ -32,11 +32,10 @@ Los materiales que utilizaremos son:
 Introducción a modelos de redes neuronales:
 - Qué es una red neuronal?
 - Tipología: Neuronas, Capas, Etc.
-Función de activación: sigmoide/relu
+- Función de activación: sigmoide/relu
 - Gradiente Descent y proceso de aprendizaje (backpropagation)
 - Función de pérdida
 - Sotochastic Gradient Descent
-- ver mail con link
 
 Los materiales que utilizaremos son:
 - Presentación | [Presentación formato claro](https://docs.google.com/presentation/d/1vFXqP9QBoipKkGjajyqZEDelGllNueR51kBmXCGWzck/edit)
