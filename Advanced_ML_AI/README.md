@@ -40,4 +40,4 @@ Introducción a modelos de redes neuronales:
 Los materiales que utilizaremos son:
 - Presentación | [Presentación formato claro](https://docs.google.com/presentation/d/1vFXqP9QBoipKkGjajyqZEDelGllNueR51kBmXCGWzck/edit)
 - 2A - Notebook Introducción Redes Neuronales: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_03_Intro_Redes_Neuronales/03A_Introducci%C3%B3n_Redes_Neuronales_Sin_Resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_03_Intro_Redes_Neuronales/03A_Introducci%C3%B3n_Redes_Neuronales.ipynb)
-- 2B - Notebook Introducción Reconocimiento de Imagen: Resuelto[https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_03_Intro_Redes_Neuronales/03B_Introducci%C3%B3n_reconocimiento_de_imagen_con_Redes_Neuronales.ipynb] 
+- 2B - Notebook Introducción Reconocimiento de Imagen: [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/Clase_03_Intro_Redes_Neuronales/03B_Introducci%C3%B3n_reconocimiento_de_imagen_con_Redes_Neuronales.ipynb)
