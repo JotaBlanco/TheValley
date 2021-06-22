@@ -8,6 +8,7 @@ Introducción al análisis exploratorio:
 
 Los materiales que utilizaremos son:
 - [Presentación](https://docs.google.com/presentation/d/1IT6OVy9YS_sbgHF2oU9D0L--fZiyUfij7NxVhu3cAdg/edit?usp=sharing) | [Presentación formato claro](https://docs.google.com/presentation/d/1H04gE9N6dTgWJ7o9tgxZIHyXMNRD8HB97EKwotOWUng/edit?usp=sharing)
+- Pequeño repaso de nociones básicas en Python: [paréntesis, corchetes, objetos y más](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/00___Peque%C3%B1o_repaso_de_formatos_tipos_par%C3%A9ntesis_corchetes.ipynb)
 - Notebook con Explicaciones [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/01___Proceso_analisis_exploratorio__sin_resolver_ejercicios.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/01___Proceso_analisis_exploratorio_resuelto.ipynb)  
 - EJERCICIO 1 - EDA Titanic: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/01___Proceso_analisis_exploratorio.ipynb)   |   [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb)
 - EJERCICIO 2 - EDA SP&500: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_2__proceso_analisis_exploratorio_sin_resolver.ipynb)   |   [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_2__proceso_analisis_exploratorio.ipynb)
@@ -16,7 +17,6 @@ Los materiales que utilizaremos son:
 
 # Clase 2 - Análisis Exploratorio Visual
 Recordamos y desarrollamos conceptos básicos sobre el EDA, poniendo el foco en la visualización de los datos.  
-- pequeño repaso Python: [paréntesis, corchetes, objetos y más](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/00___Peque%C3%B1o_repaso_de_formatos_tipos_par%C3%A9ntesis_corchetes.ipynb)
 - pequeño repaso análisis exploratorio:  [ejercicio Titanic](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb)
 - cómo visualizar información siguiendo buenas prácticas
 - cómo utilizar matplotlib.pyplot
