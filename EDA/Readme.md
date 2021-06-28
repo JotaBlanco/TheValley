@@ -16,13 +16,13 @@ Los materiales que utilizaremos son:
 
 
 # Clase 2 - Análisis Exploratorio Visual
-Recordamos y desarrollamos conceptos básicos sobre el EDA, poniendo el foco en la visualización de los datos.  
-- pequeño repaso análisis exploratorio:  [ejercicio Titanic](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb)
+Recordamos y profundizamos conceptos básicos sobre el EDA, poniendo el foco en la visualización de los datos. 
+- repaso de los conceptos de análisis exploratorio vistos en la clase anterior y profundización: cambio de formatos, distribuciones. etc: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/01___Proceso_analisis_exploratorio__sin_resolver_ejercicios.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/01___Proceso_analisis_exploratorio_resuelto.ipynb)
+- puesta en práctica con ejercicio EDA Titanic: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio_sin_resolver.ipynb)   |   [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb)
 - cómo visualizar información siguiendo buenas prácticas
 - cómo utilizar matplotlib.pyplot
 - cómo emplear las funciones principales de Pyplot: plt.plot(), plt.bar(), plt.scatter(), plt.hist()
-- cómo aprovecharnos de la estética de Seaborn
-- cómo generar reports automáticos con pandas-profiling
+- Otras librerías útiles: Seaborn y pandas-profiling
 
 Los materiales que utilizaremos son:
 - [Presentación](https://docs.google.com/presentation/d/1N7MPSC7ntM-0ZEHlrN5xRTpT4uNDyU_o53GBvnojUx8/edit) | [Presentación formato claro](https://docs.google.com/presentation/d/1YS2POSE2xxyebvRIvpgQF5JQdAWE4ZkogvI7oKnqNoc/edit?usp=sharing)
