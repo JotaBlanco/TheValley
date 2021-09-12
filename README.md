@@ -8,11 +8,12 @@ Enlace a los materiales de las distintas clases:
   - 28/06/2021 [Análisis Exploratorio Visual](https://github.com/JotaBlanco/TheValley/tree/main/EDA#clase-2---an%C3%A1lisis-exploratorio-visual)
   - 29/06/2021 [Análisis Univariante, Multivariante y Causal](https://github.com/JotaBlanco/TheValley/tree/main/EDA#clase-3---an%C3%A1lisis-univariante-multivariante-y-causal)
 
-# Materiales futuros módulos
 - ÁRBOLES DE DECISIÓN
-  -13/09/2021 [Modelos de inferencia de árboles de decisión: clasificación binaria y regresión](https://github.com/JotaBlanco/TheValley/tree/main/Arboles#clase-1---%C3%A1rboles-de-decisi%C3%B3n-i)
+  - 13/09/2021 [Modelos de inferencia de árboles de decisión: clasificación binaria y regresión](https://github.com/JotaBlanco/TheValley/tree/main/Arboles#clase-1---%C3%A1rboles-de-decisi%C3%B3n-i)
   - 14/09/2021 [Modelos de inferencia de árboles de decisión: clasificación multiclase](https://github.com/JotaBlanco/TheValley/tree/main/Arboles#clase-2---%C3%A1rboles-de-decisi%C3%B3n-ii)
   - XX/XX/2021 [Modelos avanzados de árboles](https://github.com/JotaBlanco/TheValley/tree/main/Arboles#clase-2---%C3%A1rboles-de-decisi%C3%B3n-ii)
+
+# Materiales futuros módulos
 - ADVANCED MACHINE LEARNING AI
   - XX/XX/2021 [Modelos de árboles avanzados](https://github.com/JotaBlanco/TheValley/tree/main/Advanced_ML_AI#clase-1---modelos-de-%C3%A1rboles-avanzados)
   - XX/XX/2021 [Optimizando modelos: selección de hiperparámetros](https://github.com/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/README.md#clase-2---optimizando-modelos-selecci%C3%B3n-de-hiperpar%C3%A1metros)
