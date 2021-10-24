@@ -8,7 +8,6 @@ Profundizamos en modelos de árboles avanzados e introducimos el concepto (en re
 
 Los materiales que utilizaremos son:
 - 0 - Ejercicio Modelos Árboles: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_02_Arboles/03E_sin_resolver_%7C_Ejercicio_Precio_Coches.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_02_Arboles/03E_%7C_Ejercicio_Precio_Coches.ipynb)
-
 - [Presentación](https://docs.google.com/presentation/d/1OpMCZdoi_caj86x-_HqZVaCMWASUDKSis-sMKsKI1eM/edit?usp=sharing) | [Presentación formato claro](https://docs.google.com/presentation/d/1F68d62Vskya9lSi8nwJfQxRqMqdVk3_I0c61jgtSWWg/edit?usp=sharing)
 - Cuestionarios de [Kahoot](https://kahoot.it/):
   - [Cuestionario 1](https://create.kahoot.it/details/66d8870b-abba-4254-8175-4f1e721102b6)
