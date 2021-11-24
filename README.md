@@ -17,5 +17,5 @@ Enlace a los materiales de las distintas clases:
 - ADVANCED MACHINE LEARNING AI
   - 25/10/2021 [Modelos de árboles avanzados](https://github.com/JotaBlanco/TheValley/tree/main/Advanced_ML_AI#clase-1---modelos-de-%C3%A1rboles-avanzados)
   - 26/10/2021 [Optimizando modelos: selección de hiperparámetros](https://github.com/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/README.md#clase-2---optimizando-modelos-selecci%C3%B3n-de-hiperpar%C3%A1metros)
-  - XX/XX/2021 [Introducción a las redes neuronales](https://github.com/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/README.md#clase-3---introducci%C3%B3n-a-las-redes-neuronales)
+  - 24/11/2021 [Introducción a las redes neuronales](https://github.com/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/README.md#clase-3---introducci%C3%B3n-a-las-redes-neuronales)
   - XX/XX/2021 Datathon
