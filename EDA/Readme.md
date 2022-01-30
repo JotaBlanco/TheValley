@@ -18,7 +18,6 @@ Los materiales que utilizaremos son:
 # Clase 2 - Análisis Exploratorio Visual
 Recordamos y profundizamos conceptos básicos sobre el EDA, poniendo el foco en la visualización de los datos. 
 - repaso de los conceptos EDA de la clase anterior y profundizamos: cambio de formatos, distribuciones. etc: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/01___Proceso_analisis_exploratorio__sin_resolver_ejercicios.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/01___Proceso_analisis_exploratorio_resuelto.ipynb)
-- desde este punto tendremos habilitadas salas de equipo: [links](https://docs.google.com/presentation/d/1IZPYNcSs1v1W26RGUTeHQwh7wGDdJmhYwgRCpRquano/edit#slide=id.gc9790f3bd6_0_0) a las salas de cada equipo.
 - puesta en práctica con ejercicio EDA Titanic: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio_sin_resolver.ipynb)   |   [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/01-proceso-analisis-exploratorio/EJERCICIO_1__proceso_analisis_exploratorio.ipynb)
 - cómo visualizar información siguiendo buenas prácticas
 - cómo utilizar matplotlib.pyplot
