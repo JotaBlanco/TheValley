@@ -12,7 +12,7 @@ Enlace a los materiales de las distintas clases:
 - ÁRBOLES DE DECISIÓN
   - 22/02/2022 [Modelos de inferencia de árboles de decisión: clasificación binaria y regresión](https://github.com/JotaBlanco/TheValley/tree/main/Arboles#clase-1---%C3%A1rboles-de-decisi%C3%B3n-i)
   - 23/02/2022 [Modelos de inferencia de árboles de decisión: clasificación multiclase](https://github.com/JotaBlanco/TheValley/tree/main/Arboles#clase-2---%C3%A1rboles-de-decisi%C3%B3n-ii)
-  - XX/XX/2022 [Modelos avanzados de árboles](https://github.com/JotaBlanco/TheValley/tree/main/Arboles#clase-2---%C3%A1rboles-de-decisi%C3%B3n-ii)
+  - 23/03/2022 [Modelos avanzados de árboles](https://github.com/JotaBlanco/TheValley/tree/main/Arboles#clase-2---%C3%A1rboles-de-decisi%C3%B3n-ii)
 
 - ADVANCED MACHINE LEARNING AI
   - XX/XX/2022 [Modelos de árboles avanzados](https://github.com/JotaBlanco/TheValley/tree/main/Advanced_ML_AI#clase-1---modelos-de-%C3%A1rboles-avanzados)
