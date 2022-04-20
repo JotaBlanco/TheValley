@@ -8,7 +8,6 @@ Enlace a los materiales de las distintas clases:
   - 01/02/2022 [Análisis Exploratorio Visual](https://github.com/JotaBlanco/TheValley/tree/main/EDA#clase-2---an%C3%A1lisis-exploratorio-visual)
   - 02/02/2022 [Análisis Univariante, Multivariante y Causal](https://github.com/JotaBlanco/TheValley/tree/main/EDA#clase-3---an%C3%A1lisis-univariante-multivariante-y-causal)
 
-# Materiales futuros módulos
 - ÁRBOLES DE DECISIÓN
   - 22/02/2022 [Modelos de inferencia de árboles de decisión: clasificación binaria y regresión](https://github.com/JotaBlanco/TheValley/tree/main/Arboles#clase-1---%C3%A1rboles-de-decisi%C3%B3n-i)
   - 23/02/2022 [Modelos de inferencia de árboles de decisión: clasificación multiclase](https://github.com/JotaBlanco/TheValley/tree/main/Arboles#clase-2---%C3%A1rboles-de-decisi%C3%B3n-ii)
