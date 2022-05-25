@@ -5,8 +5,7 @@ Clases a impartir en  el MDS+.
 Enlace a los materiales de las distintas clases: 
 - ANÁLISIS EXPLORATORIO
   - 18/05/2022 [Introducción al Análisis Exploratorio (EDA)](https://github.com/JotaBlanco/TheValley/tree/main/EDA#clase-1---an%C3%A1lisis-exploratorio)
-  - 25/05/2022
-  -  [Análisis Exploratorio Visual](https://github.com/JotaBlanco/TheValley/tree/main/EDA#clase-2---an%C3%A1lisis-exploratorio-visual)
+  - 25/05/2022 [Análisis Exploratorio Visual](https://github.com/JotaBlanco/TheValley/tree/main/EDA#clase-2---an%C3%A1lisis-exploratorio-visual)
   - XX/XX/XXXX [Análisis Univariante, Multivariante y Causal](https://github.com/JotaBlanco/TheValley/tree/main/EDA#clase-3---an%C3%A1lisis-univariante-multivariante-y-causal)
 
 - ÁRBOLES DE DECISIÓN
