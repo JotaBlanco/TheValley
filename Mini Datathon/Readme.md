@@ -21,7 +21,7 @@ Usaremos la plataforma de Quix para desplegar nuestro código. La plataforma de 
 ### 04 - Huggingface
 [Huggingface](https://huggingface.co/) es una iniciativa open source donde podemos encontrar gran cantidad de modelos y bases de datos estado del arte en deep learning. Hoy usaremos esos modelos ya entrenados.
 - investigando Huggingface (overview en la página web)
-- probando algunos modelos (Notebook)
+- probando algunos modelos - [Notebook Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Mini%20Datathon/Notebooks/Hugging_Face.ipynb)
 
 ### 05 - Chat avanzado
 Manos a la obra! Aquí construiréis una aplicación chat dónde cualquiera pueda participar con su QR, pero analizando el sentimiento de los mensajes en tiempo real y censurando los ofensivos!
@@ -29,9 +29,4 @@ Manos a la obra! Aquí construiréis una aplicación chat dónde cualquiera pued
 - Construir applicación chat
 - Añadir análisis de sentimiento
 
-
-# Materiales
-- Notebook 1
-- Notebook 2
-- Notebook 3
-- 
+ 
