@@ -10,7 +10,7 @@ El streaming es la filosofía perfecta para trabajar con datos en tiempo real. V
 ### 02 - Streaming con quix streams
 Veremos cómo hacer streaming con la librería de Python [quix-streams](https://github.com/quixio/quix-streams):
 - pub() - [Notebook pub()](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Mini%20Datathon/Notebooks/Quix_Streams_PUB.ipynb)
-- sub()
+- sub() - [Notebook sub()](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Mini%20Datathon/Notebooks/Quix_Streams_SUB.ipynb)
 - procesar datos
 
 ### 03 - Puesta en producción en la nube con Quix
