@@ -25,6 +25,7 @@ Usaremos la plataforma de Quix para desplegar nuestro código. La plataforma de 
 
 ### 05 - Chat avanzado
 Manos a la obra! Aquí construiréis una aplicación chat dónde cualquiera pueda participar con su QR, pero analizando el sentimiento de los mensajes en tiempo real y censurando los ofensivos!
+- Crear cuenta en QUix
 - Construír topics de kafka necesarios
 - Construir applicación chat
 - Añadir análisis de sentimiento
