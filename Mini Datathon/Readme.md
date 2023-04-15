@@ -2,7 +2,7 @@
 En este módulo del máster habéis profundizado en los modelos de deep learning, así como aprendido sobre técnicas para diseñar soluciones de IA escalables y el despliegue de modelos en la nube. Hoy vamos a aprender una nueva filosofía de tratamiento de datos (streaming), que emplearemos para desplegar varios modelos de deep learning ya entrenados (disponibles en Huggingface) en la nube para acabar la clase con un chat con análisis de sentimiento en producción... y más!
 
 ### 01 - Introducción a streaming
-El streaming es la filosofía perfecta para trabajar con datos en tiempo real. Veremos de qué va el streaming cubriendo:
+El streaming es la filosofía perfecta para trabajar con datos en tiempo real. Introduciremos el streaming desde cero con [estas diapositivas](https://docs.google.com/presentation/d/1EKRt9y7TO89-rtDL43ugjt5KC4SgO4Ysek0fSrpdiKM/edit?usp=sharing), cubriendo:
 - Streaming VS Batch
 - PUB/SUB
 - Kafka Topic
