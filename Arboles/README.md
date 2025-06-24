@@ -40,3 +40,5 @@ Los materiales que utilizaremos son:
 
 # Workshop
 Caso orientado a negocio, como si los alumnos formasen parte de un equipo de DS de alguna empresa. En este caso, el reto es predecir el precio de la vivienda.
+
+- Worksop  | [Original](abc) | [Resuelto - Jimena](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Workshop/Workshop_Modelizacion_I_RESUELTO_Jimena.ipynb)
