@@ -37,3 +37,6 @@ Los materiales que utilizaremos son:
 - 3C - Introducción a Random Forest: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_03_Arboles/03C_sin_resolver_%7C_Introducci%C3%B3n_Random_Forests.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_03_Arboles/03C_%7C_Introducci%C3%B3n_Random_Forests.ipynb)
 - 3D - Introducción a Gradient Boosting: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_03_Arboles/03D_sin_resolver_%7C_Introducci%C3%B3n_Gradient_Boosting.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_03_Arboles/03D_%7C_Introducci%C3%B3n_Gradient_Boosting.ipynb)
 - 3E - Ejercicio Modelos Árboles: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_02_Arboles/03E_sin_resolver_%7C_Ejercicio_Precio_Coches.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/Arboles/Clase_02_Arboles/03E_%7C_Ejercicio_Precio_Coches.ipynb)
+
+# Workshop
+Caso orientado a negocio, como si los alumnos formasen parte de un equipo de DS de alguna empresa. En este caso, el reto es predecir el precio de la vivienda.
