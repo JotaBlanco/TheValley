@@ -1,122 +1,114 @@
-ÍNDICE DE LA SESIÓN
-● Concepto de aprendizaje no supervisado
-● Tipos de aprendizaje no supervisado
-○ Clustering
-○ Detección de anomalías
-○ Reducción dimensional
-● Construcción de un modelo no supervisado
-○ Definición del modelo
-○ Entrenamiento
-○ Persistencia
-○ Predicción
-● Algoritmos
-○ K-Means
-○ K-Medoids
+# 🧠 Taller Práctico: Modelos No Supervisados
 
+## Índice de la Sesión
 
-● OBJETIVOS DE LA SESIÓN
-El objetivo de la sesión es familiarizarse con el concepto de aprendizaje no supervisado, sus
-tipos y cómo se construye un modelo de este tipo. Además se estudiarán los algoritmos de
-clustering más utilizados, en particular K-Means.
+- **Concepto de aprendizaje no supervisado**
+- **Tipos de aprendizaje no supervisado**
+  - Clustering
+  - Detección de anomalías
+  - Reducción dimensional
+- **Construcción de un modelo no supervisado**
+  - Definición del modelo
+  - Entrenamiento
+  - Persistencia
+  - Predicción
+- **Algoritmos**
+  - K-Means
+  - K-Medoids
 
+---
 
-● CONCEPTOS CLAVE
-Aprendizaje no supervisado: Conjunto de algoritmos que tienen como objetivo aprender
-patrones de datos no etiquetados.
-Clustering: Subconjunto de algoritmos de aprendizaje no supervisado que tratan de agrupar
-los datos de manera que datos en el mismo grupo sean similares y datos en grupos distintos
-sean diferentes.
-Detección de anomalías: Subconjunto de algoritmos de aprendizaje no supervisado que
-tratan de determinar aquellos datos que difieren sustancialmente del resto en un mismo
-dataset.
-Reducción dimensional: Técnicas para disminuir el número de variables que caracterizan
-una observación reteniendo una parte sustancial de la información presente en la
-representación original.
-Hiper parámetro: Parámetro que gobierna el comportamiento de un algoritmo que no es
-aprendido directamente de los datos en el entrenamiento.
-Centroide: Centro geométrico de las observaciones de un grupo. Punto medio de las
-observaciones.
-Medoid: Observación dentro de un grupo cuya disimilitud al resto de las observaciones de
-ese grupo es mínima.
+## Objetivos
 
+- Comprender el **aprendizaje no supervisado**, sus principales tipos y aplicaciones.
+- Aprender a construir un modelo no supervisado.
+- Conocer y aplicar los algoritmos de clustering más utilizados, con especial atención a **K-Means**.
 
+---
 
-● SINOPSIS
+## Conceptos Clave
 
-Los algoritmos de aprendizaje no supervisado tienen como objetivo aprender patrones de la
-estructura de los datos.
-A diferencia del aprendizaje supervisado en el aprendizaje no supervisado los datos no
-están etiquetados, es decir, no tenemos una variable objetivo que queramos predecir.
-Los algoritmos de aprendizaje no supervisado pueden aportar un valor en sí mismo o
-utilizarse como un paso previo para el entrenamiento de un modelo supervisado.
-El análisis cluster o simplemente clustering tiene como objetivo agrupar observaciones de
-manera que:
-● Dentro de un mismo grupo las observaciones sean lo más similares posible.
-● Las observaciones que se encuentran en grupos distintos son lo más distintas entre
-ellas.
-Para evaluar la similitud entre dos muestras utilizamos alguna métrica de distancia entre las
-variables que las caracterizan
-El objetivo de un algoritmo de detección de anomalías (también denominadas outliers) es
-la detección de muestras que se desvían significativamente del resto de los datos.
-Las técnicas de reducción dimensional tratan de transformar los datos desde un espacio
-de alta dimensionalidad (datos con muchas columnas) a un espacio de dimensionalidad
-menor, reteniendo una parte significativa de la información contenida en ellos.
-El algoritmo K-Means es uno de los más utilizado en el análisis de clusters. Su objetivo es,
-dado un número K de clusters, agrupar los datos en K grupos de manera que se minimice la
-varianza intra-cluster.
-La varianza intra-cluster es la suma de la distancia euclídea al cuadrado desde cada
-muestra al centroide del cluster, siendo el centroide de un clúster el centro geométrico del
-mismo, o lo que es lo mismo el punto medio.
-K-Means construye los clusters de la siguiente manera:
-● Inicialización de los centroides
-Se crean k centroides. Una de las maneras más habituales (Método de Forgy) es tomar k
-muestras existentes y elegirlas como centros.
-Tras la inicialización se realizan dos pasos iterativamente:
-● Paso de asignación
-Cada muestra del dataset la asignamos al clúster representado por el centroide más
-cercano a la misma.
-● Paso de actualización
-Re-calculamos las coordenadas de los centroides con las nuevas muestras de cada clúster.
-El algoritmo termina cuando se alcanza la convergencia, es decir, cuando en el paso de
-asignación ninguna muestra cambia de clúster.
-El método de k-medoids es similar a k-means, sin embargo los centroides tienen que
-coincidir con una muestra real del dataset, pasándose a llamar medoides o medoids.
-Además la distancia no está restringida a ser la distancia euclídea.
-Esto permite una serie de ventajas:
-● Es menos sensitivo a outliers. El algoritmo de k-means, es muy sensible a valores
-anómalos en el dataset pudiendo cambiar significativamente la configuración de los
-clusters.
-● Permite utilizar métricas arbitrarias para definir la similitud entre clusters, mientras
-que k-means generalmente está limitado a la distancia euclídea para soluciones
-eficientes.
-● En principio, permite mayor interpretabilidad al tener una muestra representativa real
-en cada uno de los clusters.
-El algoritmo más utilizado es PAM (Partitioning around medoids) y es como sigue:
-● Inicializamos los medoides seleccionando k muestras aleatoriamente.
-● Asignamos cada muestra al cluster del medoid más similar según la métrica elegida.
-● Para cada uno de los medoides cogemos el resto de muestras "no medoide" y
-calculamos la función de coste a minimizar si esta fuera medoide y la otra no.
-Cambiamos el medoide por la muestra "no medoide" que minimice la función de
-coste.
-● El algoritmo termina cuando ningún posible cambio de medoide a "no medoide"
-reduce el coste.
+- **Aprendizaje no supervisado**: Técnicas que identifican patrones en datos no etiquetados.
+- **Clustering**: Agrupación de datos en grupos de observaciones similares.
+- **Detección de anomalías**: Identificación de observaciones que difieren significativamente del resto.
+- **Reducción dimensional**: Transformación de datos a un espacio con menos variables, manteniendo la mayor cantidad de información posible.
+- **Hiperparámetro**: Parámetro configurable del modelo que no se aprende directamente a partir de los datos.
+- **Centroide**: Punto medio (geométrico) de un grupo de datos.
+- **Medoide**: Observación representativa dentro de un grupo, con mínima disimilitud respecto al resto.
 
+---
 
-● CASOS REALES ANALIZADOS EN LA SESIÓN:
+## Sinopsis
 
-En la sesión se van a analizar casos de uso reales de cada una de las técnicas de
-aprendizaje no supervisado.
-● EJERCICIOS PRÁCTICOS DURANTE LA SESIÓN:
-En la sesión se hará un ejemplo de aplicación de algoritmos de clustering a la
-segmentación de productos en una compañía de retail.
-● ¿QUÉ HEMOS APRENDIDO EN CLASE?
-Concepto de aprendizaje no supervisado y sus distintas ramas. Algoritmos
-básicos de clustering. K-Means y K-Medoids.
-● LECTURAS RECOMENDADAS
-- Scikit-learn documentation on unsupervised learning
-- “k-means++: The advantages of careful seeding” Arthur, David, and Sergei
-Vassilvitskii, Proceedings of the eighteenth annual ACM-SIAM symposium on
-Discrete algorithms, Society for Industrial and Applied Mathematics (2007)
-- “Faster k-Medoids Clustering: Improving the PAM, CLARA, and CLARANS
-Algorithms", Similarity Search and Applications, Springer International Publishing,
-11807, pp. 171–187, arXiv:1810.05691
+El **aprendizaje no supervisado** busca descubrir patrones en conjuntos de datos **sin etiquetas** (sin variable objetivo). Puede ser útil por sí mismo o como paso previo en modelos supervisados.
+
+### Clustering
+
+El **clustering** busca agrupar observaciones para que:
+
+- Las del **mismo grupo** sean lo más similares posible.
+- Las de **grupos distintos** sean lo más diferentes posible.
+
+Esto se logra utilizando métricas de distancia (como la euclídea).
+
+---
+
+## Algoritmos de Clustering
+
+### K-Means
+
+K-Means busca dividir los datos en **K grupos**, minimizando la **varianza intra-cluster** (suma de distancias al centroide).  
+Pasos del algoritmo:
+
+1. **Inicialización**: Se seleccionan K centroides iniciales (por ejemplo, con el método de Forgy).
+2. **Asignación**: Cada muestra se asigna al centroide más cercano.
+3. **Actualización**: Se recalculan los centroides de cada grupo.
+4. **Convergencia**: El algoritmo termina cuando ya no cambian las asignaciones.
+
+### K-Medoids
+
+Similar a K-Means, pero los **centroides deben ser observaciones reales del dataset** (medoides) y puede usar cualquier métrica de distancia.
+
+Ventajas:
+
+- **Menor sensibilidad a outliers.**
+- **Mayor flexibilidad** en métricas de similitud.
+- **Mayor interpretabilidad** (los representantes del grupo son datos reales).
+
+**Algoritmo más común:** `PAM` (Partitioning Around Medoids):
+
+1. Selección aleatoria de K medoides.
+2. Asignación de cada muestra al medoide más similar.
+3. Evaluación de posibles cambios de medoide que reduzcan el coste.
+4. Finaliza al no haber mejoras posibles.
+
+---
+
+## Casos Realesss
+
+Durante la sesión se analizarán ejemplos reales de:
+
+- **Clustering**
+- **Detección de anomalías**
+- **Reducción dimensional**
+
+---
+
+## Ejercicio Práctico
+
+Se aplicarán algoritmos de clustering a la **segmentación de productos** en una empresa de retail.
+
+---
+
+## ¿Qué Hemos Aprendido?
+
+- Fundamentos del aprendizaje no supervisado y sus variantes.
+- Algoritmos clave como **K-Means** y **K-Medoids**.
+
+---
+
+## Lecturas Recomendadas
+
+- [Scikit-learn: Documentación sobre aprendizaje no supervisado](https://scikit-learn.org/stable/unsupervised_learning.html)
+- Arthur, D. & Vassilvitskii, S. _["k-means++: The advantages of careful seeding"](https://theory.stanford.edu/~sergei/papers/soda06-kmeans.pdf)_, ACM-SIAM Symposium on Discrete Algorithms (2007)
+- “Faster k-Medoids Clustering: Improving the PAM, CLARA, and CLARANS Algorithms", in _Similarity Search and Applications_, Springer (2019). [arXiv:1810.05691](https://arxiv.org/abs/1810.05691)
