@@ -17,3 +17,6 @@ Enlace a los materiales de las distintas clases:
   - XX/XX/XXXX [Modelos de árboles avanzados](https://github.com/JotaBlanco/TheValley/tree/main/Advanced_ML_AI#clase-1---modelos-de-%C3%A1rboles-avanzados)
   - XX/XX/XXXX [Optimizando modelos: selección de hiperparámetros](https://github.com/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/README.md#clase-2---optimizando-modelos-selecci%C3%B3n-de-hiperpar%C3%A1metros)
   - XX/XX/XXXX [Introducción a las redes neuronales](https://github.com/JotaBlanco/TheValley/blob/main/Advanced_ML_AI/README.md#clase-3---introducci%C3%B3n-a-las-redes-neuronales)
+
+- WORKSHOPS
+  - XX/XX/XXXX [Modelos no supervisados](https://docs.google.com/presentation/d/1AkcTG8JFvZ0J7kYmgDx6QWEBzQ9l7MQ3/edit?slide=id.g2e23e7fd3bd_0_417#slide=id.g2e23e7fd3bd_0_417)
