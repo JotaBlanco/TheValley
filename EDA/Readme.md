@@ -48,3 +48,23 @@ Los materiales que utilizaremos son:
   - 3A - Análisis univariante: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_A___Analisis_univariante_sin_resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_A___Analisis_univariante.ipynb)
   - 3B - Análisis multivariante: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_B___Analisis_multivariante_sin_resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_B___Analisis_multivariante.ipynb)
   - 3C - Análisis causal: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_C___Introducci%C3%B3n_analisis_causal_sin_resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_C___Introducci%C3%B3n_analisis_causal.ipynb)
+
+
+# Clase 4 - Probabilidad I
+Un análisis EDA profundo suele desembocar en un estudio de las relaciones entre variables. Con esto se intenta comprender los mecanismos que dan lugar a nuestros datos. En esta sesión nos centraremos en:
+- cómo hacer un análisis univariante (estudio de una variable)
+- cómo hacer un análisis multivariante (estudio de la relación entre dos o más variable)
+- por qué es importante una óptica causal
+- cuáles son las posibles fuentes de una correlación:
+  - azar
+  - relación causal
+  - presencia de confounder
+  - ajuste por collider
+ 
+  Los materiales que utilizaremos son:
+- [Presentación]([https://docs.google.com/presentation/d/13ITTrYV95OhS3C5wYkUICPNn0etweGA4-PicSZP14Lk/edit?usp=sharing](https://docs.google.com/presentation/d/1cKT9HuJJfoktBuWXva2iKrOZUZwocwovc0EezFE0yEU/edit?slide=id.p1#slide=id.p1))
+- NOTEBOOKS de explicación con ejemplos:
+  - 3A - Análisis univariante: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_A___Analisis_univariante_sin_resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_A___Analisis_univariante.ipynb)
+
+
+# Clase 5 - Probabilidad II
