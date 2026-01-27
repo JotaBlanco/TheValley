@@ -51,20 +51,13 @@ Los materiales que utilizaremos son:
 
 
 # Clase 4 - Probabilidad I
-Un análisis EDA profundo suele desembocar en un estudio de las relaciones entre variables. Con esto se intenta comprender los mecanismos que dan lugar a nuestros datos. En esta sesión nos centraremos en:
-- cómo hacer un análisis univariante (estudio de una variable)
-- cómo hacer un análisis multivariante (estudio de la relación entre dos o más variable)
-- por qué es importante una óptica causal
-- cuáles son las posibles fuentes de una correlación:
-  - azar
-  - relación causal
-  - presencia de confounder
-  - ajuste por collider
- 
-  Los materiales que utilizaremos son:
+Cubre los fundamentos: contexto e introducción (qué problema resuelve la probabilidad: incertidumbre, variabilidad y riesgo), la diferencia entre modelo ideal/datos/simulación, probabilidad básica (espacio muestral, definición clásica P(A)=|A|/|Ω|, reglas de complemento/unión/intersección), probabilidad desde datos (frecuencia relativa, DataFrames), simulación Monte Carlo, probabilidad condicionada (P(A|B), independencia), variables aleatorias discretas (Bernoulli, Binomial), y esperanza/varianza.
+
+Los materiales que utilizaremos son:
 - [Presentación](https://docs.google.com/presentation/d/1cKT9HuJJfoktBuWXva2iKrOZUZwocwovc0EezFE0yEU/edit?slide=id.p1#slide=id.p1)
 - NOTEBOOKS de explicación con ejemplos:
-  - 3A - Análisis univariante: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_A___Analisis_univariante_sin_resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_A___Analisis_univariante.ipynb)
+  - 4A - Probabilidad: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_A___Analisis_univariante_sin_resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_A___Analisis_univariante.ipynb)
 
 
 # Clase 5 - Probabilidad II
+Continúa con variables continuas (densidad vs probabilidad, uniforme y normal, histogramas/KDE), Teorema Central del Límite (bootstrapping, convergencia), distribuciones χ² y t-Student, e introducción a inferencia estadística (hipótesis, p-valor, test t).
