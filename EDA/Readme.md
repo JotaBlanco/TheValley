@@ -57,7 +57,7 @@ Los materiales que utilizaremos son:
 - [Presentación](https://docs.google.com/presentation/d/1cKT9HuJJfoktBuWXva2iKrOZUZwocwovc0EezFE0yEU/edit?slide=id.p1#slide=id.p1)
 - NOTEBOOKS de explicación con ejemplos:
   - 4A - Probabilidad: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/04-probabilidad/04_A___Probabilidad_Sin_Resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/04-probabilidad/04_A___Probabilidad_Resuelto.ipynb)
-
+  - 5A - Probabilidad: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/04-probabilidad/05_A___PROBLEMAS_Probabilidad_Sin_Resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/04-probabilidad/05_A___PROBLEMAS_Probabilidad_Resuelto.ipynb)
 
 # Clase 5 - Probabilidad II
 Continúa con variables continuas (densidad vs probabilidad, uniforme y normal, histogramas/KDE), Teorema Central del Límite (bootstrapping, convergencia), distribuciones χ² y t-Student, e introducción a inferencia estadística (hipótesis, p-valor, test t).
