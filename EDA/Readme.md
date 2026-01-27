@@ -56,7 +56,7 @@ Cubre los fundamentos: contexto e introducción (qué problema resuelve la proba
 Los materiales que utilizaremos son:
 - [Presentación](https://docs.google.com/presentation/d/1cKT9HuJJfoktBuWXva2iKrOZUZwocwovc0EezFE0yEU/edit?slide=id.p1#slide=id.p1)
 - NOTEBOOKS de explicación con ejemplos:
-  - 4A - Probabilidad: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_A___Analisis_univariante_sin_resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_A___Analisis_univariante.ipynb)
+  - 4A - Probabilidad: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/04-probabilidad/04_A___Probabilidad_Sin_Resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/04-probabilidad/04_A___Probabilidad_Resuelto.ipynb)
 
 
 # Clase 5 - Probabilidad II
