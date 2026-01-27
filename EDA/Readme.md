@@ -62,7 +62,7 @@ Un análisis EDA profundo suele desembocar en un estudio de las relaciones entre
   - ajuste por collider
  
   Los materiales que utilizaremos son:
-- [Presentación]([https://docs.google.com/presentation/d/13ITTrYV95OhS3C5wYkUICPNn0etweGA4-PicSZP14Lk/edit?usp=sharing](https://docs.google.com/presentation/d/1cKT9HuJJfoktBuWXva2iKrOZUZwocwovc0EezFE0yEU/edit?slide=id.p1#slide=id.p1))
+- [Presentación](https://docs.google.com/presentation/d/1cKT9HuJJfoktBuWXva2iKrOZUZwocwovc0EezFE0yEU/edit?slide=id.p1#slide=id.p1)
 - NOTEBOOKS de explicación con ejemplos:
   - 3A - Análisis univariante: [Original](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_A___Analisis_univariante_sin_resolver.ipynb) | [Resuelto](https://colab.research.google.com/github/JotaBlanco/TheValley/blob/main/EDA/03-analisis-univariante-causal-multivariante/03_A___Analisis_univariante.ipynb)
 
