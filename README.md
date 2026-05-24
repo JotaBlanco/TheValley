@@ -6,7 +6,7 @@ Enlace a los materiales de las distintas clases:
 - ANÁLISIS EXPLORATORIO
   - XX/XX/XXXX [Introducción al Análisis Exploratorio (EDA)](https://github.com/JotaBlanco/TheValley/tree/main/EDA#clase-1---an%C3%A1lisis-exploratorio)
   - XX/XX/XXXX [Análisis Exploratorio Visual](https://github.com/JotaBlanco/TheValley/tree/main/EDA#clase-2---an%C3%A1lisis-exploratorio-visual)
-  - 21/01/2026 [Análisis Univariante, Multivariante y Causal](https://github.com/JotaBlanco/TheValley/tree/main/EDA#clase-3---an%C3%A1lisis-univariante-multivariante-y-causal)
+  - 25/05/2026 [Análisis Univariante, Multivariante y Causal](https://github.com/JotaBlanco/TheValley/tree/main/EDA#clase-3---an%C3%A1lisis-univariante-multivariante-y-causal)
 
 - ÁRBOLES DE DECISIÓN
   - XX/XX/XXXX [Modelos de inferencia de árboles de decisión: clasificación binaria y regresión](https://github.com/JotaBlanco/TheValley/tree/main/Arboles#clase-1---%C3%A1rboles-de-decisi%C3%B3n-i)
